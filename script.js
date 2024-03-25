@@ -7,7 +7,6 @@ const highScoreText = document.getElementById('highScore');
 const gameStart = document.getElementById('gameStart');
 const gameOver = document.getElementById('gameOver');
 const gameBonus = document.getElementById('gameBonus');
-const Theme = document.getElementById('Theme');
 
 //Define game variables
 const gridSize = 20;
