@@ -3,6 +3,16 @@
 
 Welcome to the Retro Snake Game! This classic game is inspired by the iconic Nokia Snake game and built using HTML, CSS, and vanilla JavaScript. Dive into the nostalgia and enjoy hours of fun with this addictive game.
 
+## Table of Contents
+
+- [Screenshots](#Screenshots)
+- [Features](#Features)
+- [Setup Instructions](#SetupInstructions)
+- [Bugs to Fix](#BugstoFix)
+- [Potential Improvements](#PotentialImprovements)
+- [Contributing](#Contributing)
+- [Play Now](#PlayNow)
+
 ## Screenshots
 
 ![Game start](https://github.com/RadithSandeepa/snake-game/blob/main/Images/gamestart.png)
