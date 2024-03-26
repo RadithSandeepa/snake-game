@@ -55,7 +55,7 @@ Welcome to the Retro Snake Game! This classic game is inspired by the iconic Nok
 
 - Occasionally, the audio for eating food may not play.
 - There's a rare occurrence where food gets generated on the snake's body.
-- 
+  
 ## Potential Improvements
 <a id="Potential-Improvements"></a>
 
@@ -63,9 +63,9 @@ Welcome to the Retro Snake Game! This classic game is inspired by the iconic Nok
 - Include instructions bar to guide players.
 - Enhance the audio experience by adding more sound effects.
 - Implement additional features to enhance gameplay and user experience.
-- 
+  <a id="Contributing"></a>
 ## Contributing
-<a id="Contributing"></a>
+
 
 Feel free to fork this repository and contribute to the project. Help fix bugs, implement new features, or suggest improvements to enhance the game.
 
