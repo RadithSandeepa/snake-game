@@ -7,20 +7,23 @@ Welcome to the Retro Snake Game! This classic game is inspired by the iconic Nok
 
 - [Screenshots](#Screenshots)
 - [Features](#Features)
-- [Setup Instructions](#SetupInstructions)
-- [Bugs to Fix](#BugstoFix)
-- [Potential Improvements](#PotentialImprovements)
+- [Setup Instructions](#Setup-Instructions)
+- [Bugs to Fix](#Bugs-to-Fix)
+- [Potential Improvements](#Potential-Improvements)
 - [Contributing](#Contributing)
-- [Play Now](#PlayNow)
+- [Play Now](#Play-Now)
 
 ## Screenshots
+<a id="Screenshots"></a>
 
 ![Game start](https://github.com/RadithSandeepa/snake-game/blob/main/Images/gamestart.png)
 
 ![Game play1](https://github.com/RadithSandeepa/snake-game/blob/main/Images/gameplay1.png)
 
 ![Game play2](https://github.com/RadithSandeepa/snake-game/blob/main/Images/gameplay2.png)
+
 ## Features
+<a id="Features"></a>
 
 - Game Board: Experience the retro feel with a beautifully designed game board.
 - Snake Movement: Control the snake's movement using arrow keys (up, down, left, right).
@@ -33,6 +36,7 @@ Welcome to the Retro Snake Game! This classic game is inspired by the iconic Nok
 
 
 ## Setup Instructions
+<a id="Setup-Instructions"></a>
 
   1.Clone the repository:
 
@@ -46,21 +50,28 @@ Welcome to the Retro Snake Game! This classic game is inspired by the iconic Nok
  3.Start playing the game and have fun!
     
 ## Bugs to Fix
+<a id="Bugs-to-Fix"></a>
+
 
 - Occasionally, the audio for eating food may not play.
 - There's a rare occurrence where food gets generated on the snake's body.
+- 
 ## Potential Improvements
+<a id="Potential-Improvements"></a>
 
 - Add a pause menu for better game control.
 - Include instructions bar to guide players.
 - Enhance the audio experience by adding more sound effects.
 - Implement additional features to enhance gameplay and user experience.
+- 
 ## Contributing
+<a id="Contributing"></a>
 
 Feel free to fork this repository and contribute to the project. Help fix bugs, implement new features, or suggest improvements to enhance the game.
 
 
 ## Play Now
+<a id="Play-Now"></a>
 
 Visit the game hosted on https://radithsandeepa.github.io/snake-game/ and start playing now!
 
