@@ -34,9 +34,8 @@ Welcome to the Retro Snake Game! This classic game is inspired by the iconic Nok
 - Audio: Immerse yourself in the game with added audio effects for eating food and game events.
 - Pause Functionality: Pause the game anytime by pressing the 'Esc' key.
 
-
-## Setup Instructions
 <a id="Setup-Instructions"></a>
+## Setup Instructions
 
   1.Clone the repository:
 
@@ -48,16 +47,15 @@ Welcome to the Retro Snake Game! This classic game is inspired by the iconic Nok
  2.Open the index.html file in your preferred web browser.
 
  3.Start playing the game and have fun!
-    
-## Bugs to Fix
-<a id="Bugs-to-Fix"></a>
 
+<a id="Bugs-to-Fix"></a>
+## Bugs to Fix
 
 - Occasionally, the audio for eating food may not play.
 - There's a rare occurrence where food gets generated on the snake's body.
-  
+
+<a id="Potential-Improvements"></a>  
 ## Potential Improvements
-<a id="Potential-Improvements"></a>
 
 - Add a pause menu for better game control.
 - Include instructions bar to guide players.
@@ -70,9 +68,8 @@ Welcome to the Retro Snake Game! This classic game is inspired by the iconic Nok
 
 Feel free to fork this repository and contribute to the project. Help fix bugs, implement new features, or suggest improvements to enhance the game.
 
-
-## Play Now
 <a id="Play-Now"></a>
+## Play Now
 
 Visit the game hosted on https://radithsandeepa.github.io/snake-game/ and start playing now!
 
